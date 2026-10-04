@@ -1,0 +1,8 @@
+{
+  "name": "傲氣雄鷹：重裝上陣 - Sky Force Reloaded",
+  "description": "致敬經典空戰街機《傲氣雄鷹：重裝上陣》的縱捲軸射擊網頁遊戲，具備偽3D立體投影、人質救援、星星磁吸、機庫科技升級與多階段巨型Boss戰。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
